@@ -170,13 +170,7 @@ Browser Response
 
 - HTML5
 - CSS3
-- JavaScript
 - Bootstrap
-
-## Database
-
-- SQLite
-- MySQL
 
 ## Deployment
 
