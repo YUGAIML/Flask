@@ -38,8 +38,6 @@ Whether you are building portfolio projects, AI applications, or full-stack web 
 - Understand Flask architecture
 - Build dynamic web applications
 - Learn routing and templates
-- Handle forms and user input
-- Connect Flask with databases
 - Manage static files
 - Use Jinja2 templating
 - Deploy applications on Render
@@ -62,8 +60,6 @@ It follows the **WSGI (Web Server Gateway Interface)** standard and provides fle
 - Fast Development
 - Flexible Architecture
 - Large Community
-- Supports REST APIs
-- Easy Database Integration
 
 ---
 
